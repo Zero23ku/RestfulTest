@@ -8,5 +8,7 @@ Java EE 6 Web
 Oracle WebLogic 12c Server
 
 
-El archivo .war se encuentra dentro de la carpeta /test/disc
-Los códigos se encuentran dentro de la carpeta /test/src/java/RestFulTest/
+
+El archivo .war se encuentra dentro de la carpeta */test/disc*
+
+Los códigos se encuentran dentro de la carpeta */test/src/java/RestFulTest/*
